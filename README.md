@@ -1,0 +1,2 @@
+# KrostyBags
+Escript del /mochilas 
