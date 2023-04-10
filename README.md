@@ -16,3 +16,5 @@ $$ | \$$\       \$$$$$$  |$$ |  $$ | $$$$$$  |$$ |
                                                         
                                                         
 https://discord.gg/MnA9852YsS
+
+Viene la textura para crear mochilas :)
